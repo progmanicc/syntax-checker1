@@ -45,7 +45,7 @@ int main()
  
 }
 
-//reruens true is the expression is balanced
+//returns true is the expression is balanced
 bool balanced(string expression)
 {
     //stack of char
